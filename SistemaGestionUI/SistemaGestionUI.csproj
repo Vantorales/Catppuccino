@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>Exe</OutputType>
+    <UseWindowsForms>False</UseWindowsForms>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\SistemaGestionBussiness\SistemaGestionBussiness.csproj" />
+	</ItemGroup>
+
+</Project>
