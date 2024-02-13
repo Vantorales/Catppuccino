@@ -1,13 +1,12 @@
-﻿using SistemaGestionEntities;
-using SistemaGestionBussiness;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using SistemaGestionData;
+using SistemaGestionData.Data;
+using SistemaGestionEntities.Models;
 
-namespace SistemaGestionBussiness
+namespace SistemaGestionBussiness.Services
 {
     public static class VentaBussiness
     {
