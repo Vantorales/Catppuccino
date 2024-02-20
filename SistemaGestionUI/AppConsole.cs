@@ -1,5 +1,5 @@
-﻿using SistemaGestionData;
-using SistemaGestionEntities;
+﻿using SistemaGestionData.Data;
+using SistemaGestionEntities.Models;
 
 string opcion = menuUser();
 

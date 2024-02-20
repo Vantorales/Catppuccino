@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaGestionUI", "Sistema
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaGestionData", "SistemaGestionData\SistemaGestionData.csproj", "{F22328B2-4008-4222-8D38-038A75A79C0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatppuccinoWebApi", "CatppuccinoWebApi\CatppuccinoWebApi.csproj", "{ADD2C2EB-EF8D-4A06-B61B-F822AE683CFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F22328B2-4008-4222-8D38-038A75A79C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F22328B2-4008-4222-8D38-038A75A79C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F22328B2-4008-4222-8D38-038A75A79C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD2C2EB-EF8D-4A06-B61B-F822AE683CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD2C2EB-EF8D-4A06-B61B-F822AE683CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD2C2EB-EF8D-4A06-B61B-F822AE683CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD2C2EB-EF8D-4A06-B61B-F822AE683CFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
