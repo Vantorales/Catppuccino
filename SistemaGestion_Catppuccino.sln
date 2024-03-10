@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaGestionUI", "Sistema
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaGestionData", "SistemaGestionData\SistemaGestionData.csproj", "{F22328B2-4008-4222-8D38-038A75A79C0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatppuccinoWebApi", "CatppuccinoWebApi\CatppuccinoWebApi.csproj", "{ADD2C2EB-EF8D-4A06-B61B-F822AE683CFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatppuccinoWebApi", "CatppuccinoWebApi\CatppuccinoWebApi.csproj", "{ADD2C2EB-EF8D-4A06-B61B-F822AE683CFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

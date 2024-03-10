@@ -15,4 +15,8 @@
     <ProjectReference Include="..\SistemaGestionEntities\SistemaGestionEntities.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="db\" />
+  </ItemGroup>
+
 </Project>
